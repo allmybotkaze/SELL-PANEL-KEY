@@ -4,3 +4,4 @@ flask
 flask-cors
 tornado==6.1
 urllib3==1.26.18
+setuptools
